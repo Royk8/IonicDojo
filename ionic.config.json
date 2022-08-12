@@ -1,0 +1,7 @@
+{
+  "name": "roys_contact_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
